@@ -6,3 +6,6 @@ comments: true
 sharing: true
 footer: true
 ---
+
+Here is a list of trading goals that I wish to accomplish. You can view my progress here.
+
