@@ -10,6 +10,16 @@ body {
 		
 		background-image: url("/images/banner.jpg" );
 		background-size: 100% 100%, cover;
+
+			
+		@media only screen and (max-width: 768px) {
+			height: 150px;
+		}
+		
+		@media only screen and (max-width: 550px) {
+			height: 100px;
+		}
+	
 		
 		hgroup {
 			position: relative;
@@ -26,6 +36,12 @@ body {
 				margin-top: 110px;
 				a {
 					color: #e7d0ba;	
+				}
+				@media only screen and (max-width: 768px) {
+					margin-top: 50px;
+				}
+				@media only screen and (max-width: 550px) {
+					margin-top: 35px;
 				}
 			}	
 			h2 {
