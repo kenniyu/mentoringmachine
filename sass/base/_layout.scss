@@ -1,18 +1,18 @@
-$max-width: 1200px !default;
+$max-width: 960px !default;
 
 // Padding used for layout margins
-$pad-min: 18px !default;
-$pad-narrow: 25px !default;
-$pad-medium: 35px !default;
-$pad-wide: 55px !default;
+$pad-min: 0px !default;
+$pad-narrow: 0px !default;
+$pad-medium: 0px !default;
+$pad-wide: 0px !default;
 
 // Sidebar widths used in media queries
-$sidebar-width-medium: 240px !default;
-$sidebar-pad-medium: 15px !default;
-$sidebar-pad-wide: 20px !default;
-$sidebar-width-wide: 300px !default;
+$sidebar-width-medium: 0px !default;
+$sidebar-pad-medium: 0px !default;
+$sidebar-pad-wide: 0px !default;
+$sidebar-width-wide: 0px !default;
 
-$indented-lists: false !default;
+$indented-lists: true !default;
 
 $header-font-size: 1em !default;
 $header-padding-top: 1.5em !default;
@@ -186,7 +186,7 @@ body.sidebar-footer {
 
 @if $indented-lists == false {
   @media only screen and (min-width: 768px) {
-    ul, ol { margin-left: 0; }
+    ul, ol { margin-left: 0; line-height: 16px; }
   }
 }
 
