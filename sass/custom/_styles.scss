@@ -1,2 +1,58 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+body {
+	> header {
+		text-align: center;
+		.banner {
+			h1 {
+				font-size: 24px;
+				text-transform: uppercase;
+				margin: 10px 0;
+				font-weight: 300;
+				a {
+					color: #e7d0ba;	
+				}
+			}	
+			h2 {
+				font-size: 14px;
+				text-transform: uppercase;
+			}
+		}
+	}
+	
+	article header {
+		margin: 0;
+	}
+}
+
+nav {
+	.main-navigation {
+		a {
+			text-transform: uppercase;
+		}
+	}
+}
+
+p {
+	line-height: 20px;
+	font-size: 13px;
+	font-weight: 300;
+}
+
+#main {
+	h1.entry-title {
+		text-transform: uppercase;
+		font-weight: 300;
+		color: #e7d0ba;	
+		margin: 20px 0;
+	}
+	
+	p {
+		margin-bottom: 20px;
+	}
+	
+	li {
+		line-height: 20px;
+	}
+}

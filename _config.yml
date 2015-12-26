@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mentoringmachine.com
+title: The Mentoring Machine
+subtitle: A self-coaching blog
+author: Ken Yu
 simple_search: https://www.google.com/search
 description:
 

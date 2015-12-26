@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Mentoring Machine]]></title>
-  <link href="http://mentoringmachine.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Career | The Mentoring Machine]]></title>
+  <link href="http://mentoringmachine.com/blog/categories/career/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
   <updated>2015-12-25T23:21:32-08:00</updated>
   <id>http://mentoringmachine.com/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My Next Play]]></title>
-    <link href="http://mentoringmachine.com/blog/2015/12/25/second-post/"/>
-    <updated>2015-12-25T22:47:17-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2015/12/25/second-post</id>
-    <content type="html"><![CDATA[<p>Starting Monday, December 28, I&rsquo;ll be starting a new chapter in my career. I&rsquo;ll be taking on the role of leading the iOS team over at <a href="http://www.stellar.aero" title="Stellar Labs">Stellar Labs</a>, helping them create their mobile product. I&rsquo;m super excited for this opportunity, am looking for a change of pace in terms of my work and my career growth, and cannot wait to just crush it.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
