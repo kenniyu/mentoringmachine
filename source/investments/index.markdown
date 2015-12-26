@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "trading"
-date: 2015-12-25 22:07
+title: "investments"
+date: 2015-12-26 13:18
 comments: true
 sharing: true
 footer: true

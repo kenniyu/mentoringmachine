@@ -50,12 +50,17 @@ p {
 		text-transform: uppercase;
 		font-weight: 300;
 		color: #e7d0ba;	
-		margin: 20px 0;
+		margin: 0;
 	}
 	
 	p {
 		margin-bottom: 0px;
 		margin-top: 20px;
+		
+		&.meta {
+			margin-top: 0;
+			color: #aaa;
+		}
 	}
 	
 	li {
@@ -68,4 +73,21 @@ p {
 	#content .blog-index article {
 		padding: 30px 0;
 	}
+	
+	article header {
+		padding-top: 0;
+	}
+}
+
+.footer-categories {
+	text-align: center;
+	a {
+		text-transform: uppercase;
+		text-decoration: none;
+		color: #fff;
+		&:hover {
+			color:  #e7d0ba;
+		}
+	}
+	padding: 20px 0;
 }
