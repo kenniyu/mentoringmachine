@@ -41,6 +41,10 @@ body {
 	
 	nav.nav-bar {
 		padding: 0 20px;
+		fieldset.mobile-nav {
+			width: 100%;
+		}
+		
 		.main-navigation {
 			a {
 				text-transform: uppercase;
@@ -99,6 +103,7 @@ p {
 	
 	#content .blog-index article {
 		padding: 30px 0;
+		border-bottom: 1px solid #333;
 	}
 	
 	article header {
