@@ -4,7 +4,7 @@
   <title><![CDATA[The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2015-12-26T17:04:12-08:00</updated>
+  <updated>2015-12-26T18:35:55-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Toxic Trading Assumptions (and Antidotes)]]></title>
+    <link href="http://mentoringmachine.com/blog/2015/12/26/toxic-trading-assumptions-and-antidotes/"/>
+    <updated>2015-12-26T18:18:41-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2015/12/26/toxic-trading-assumptions-and-antidotes</id>
+    <content type="html"><![CDATA[<p>Here are a list of toxic trading assumptions, and ways to rethink the assumption as antidotes to improve my emotions:</p>
+
+<ol>
+<li>A Good Day is a Winning Day</li>
+</ol>
+
+
+<p>I should not determine a day as good/bad based on my P/L. A good day is one where I follow my trading rules, from execution to management. I should not be expecting to make profits every day. I should not expect to be happy if I have a profitable day, nor should I expect to be sad if I do not have a profitable day.</p>
+
+<ol>
+<li>Success Means Making a Living from Trading</li>
+</ol>
+
+
+<p>It&rsquo;s ridiculous to assume this. People who are experts in other areas spend years becoming such. For example, a doctor spends at least 8 years in school before becoming an expert. Similarly, actors spend years (probably starting from a young age) before they&rsquo;re able to perform. It&rsquo;s more realistic to expect to keep my losses at a minimum and improve my trading process. Expecting to make a living from trading right off the bat will lead me to frustration and failure.</p>
+
+<p>So what are my expectations for my development over time?</p>
+
+<ul>
+<li>To enter trades on pullbacks, and <em>wait</em> if necessary.</li>
+<li>To sell premium when IV is high (above 50%)</li>
+<li>To enter contrarian trades based off overbought/oversold stochastic indicators, and support/resistance levels</li>
+<li>To not trade biotechs and FANG naked</li>
+<li>To sell iron condors that collect about 1/3 the width of the strikes</li>
+</ul>
+
+
+<p>These are all challenging, but realistic and attainable. Success if measured by achieving these expectations consistently (and not jumping the gun because I feel like I will be missing out).</p>
+
+<p>These will be on the investments page as well.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Weekly Food Shopping Items]]></title>
