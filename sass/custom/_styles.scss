@@ -31,11 +31,11 @@ body {
 				font-size: 24px;
 				text-transform: uppercase;
 //				margin: 10px 0;
-				font-weight: 300;
-				text-shadow: 0px 0px 10px #000;
+				font-weight: 500;
+				text-shadow: 0px 0px 3px #000;
 				margin-top: 110px;
 				a {
-					color: #e7d0ba;	
+					color: #899FC4;	
 				}
 				@media only screen and (max-width: 768px) {
 					margin-top: 50px;
@@ -117,9 +117,13 @@ p {
 		margin-left: 30px;
 	}
 	
-	#content .blog-index article {
+	#content article {
 		padding: 30px 0;
 		border-bottom: 1px solid #333;
+		
+		li {
+			color: #A1DB7D;
+		}
 	}
 	
 	article header {
@@ -128,6 +132,17 @@ p {
 	
 	th, td {
 		padding: 5px 30px;
+	}
+	
+	th {
+		color: #e7d0ba;
+		font-weight: 400;
+		text-transform: uppercase;
+	}
+	td {
+		text-transform: uppercase;
+		font-size: 10px;
+		font-weight: 200;
 	}
 }
 
