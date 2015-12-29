@@ -4,7 +4,7 @@
   <title><![CDATA[The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2015-12-27T21:02:49-08:00</updated>
+  <updated>2015-12-28T20:31:17-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Taking Flight]]></title>
+    <link href="http://mentoringmachine.com/blog/2015/12/28/taking-flight/"/>
+    <updated>2015-12-28T19:54:29-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2015/12/28/taking-flight</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Steps]]></title>
