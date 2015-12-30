@@ -31,3 +31,16 @@ Here are my current routine measurements
 | Cable Lateral Shoulder Raise           | 7.5          | 10         | 6          | 5          |
 | Rope Tricep Pushdown                   | 50           | 6          | 3          | 2          |
 | Straight Bar Tricep Pushdown           | 25           | 7          | 5          | 5          | 
+
+**Day B**
+
+| Lift                                   | weight | set 1 reps | set 2 reps | set 3 reps |
+| ---------------------------------------|:------:|:----------:|:----------:|:----------:|
+| Leg Press                              | 500    | 7          | 3          | 3          |
+| Leg Extension                          | 150    | 7          | 5          | 5          |
+| Calf Raise                             | 150    | 7          | 5          | 5          |
+| Flat Dumbbell Chest Press              | 85     | 7          | 5          | 5          |
+| Inclined Dumbbell Chest Press          | 65    | 7          | 5          | 5          |
+| Cable Flyes                            | 20     | 7          | 5          | 5          |
+| Preacher Curls                         | 85   | 7          | 5          | 5          |
+| Hammer Curls                           | 30   | 7          | 5          | 5          |
