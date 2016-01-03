@@ -35,13 +35,25 @@ Here are my current routine measurements
 
 **Day B**
 
-| Lift                                   | weight | set 1 reps | set 2 reps | set 3 reps |
-| ---------------------------------------|:------:|:----------:|:----------:|:----------:|
-| Leg Press                              | 500    | 7          | 3          | 3          |
-| Leg Extension                          | 150    | 7          | 5          | 5          |
-| Calf Raise                             | 150    | 7          | 5          | 5          |
-| Flat Dumbbell Chest Press              | 85     | 7          | 5          | 5          |
-| Inclined Dumbbell Chest Press          | 65    | 7          | 5          | 5          |
-| Cable Flyes                            | 20     | 7          | 5          | 5          |
-| Preacher Curls                         | 85   | 7          | 5          | 5          |
-| Hammer Curls                           | 30   | 7          | 5          | 5          |
+| Lift                                   | weight (lbs)| set 1 reps | set 2 reps | set 3 reps |
+| ---------------------------------------|:-----------:|:----------:|:----------:|:----------:|
+| Leg Press                              | 500         | 7          | 3          | 3          |
+| Leg Extension                          | 150         | 7          | 5          | 5          |
+| Calf Raise                             | 150         | 7          | 5          | 5          |
+| Flat Dumbbell Chest Press              | 85          | 7          | 5          | 5          |
+| Inclined Dumbbell Chest Press          | 65          | 7          | 5          | 5          |
+| Cable Flyes                            | 20          | 7          | 5          | 5          |
+| Preacher Curls                         | 85          | 7          | 5          | 5          |
+| Hammer Curls                           | 30          | 7          | 5          | 5          |
+
+**Day C**
+
+| Lift                                   | weight (lbs)| set 1 reps | set 2 reps | set 3 reps |
+| ---------------------------------------|:-----------:|:----------:|:----------:|:----------:|
+| Deadlift                               | 255         | 7          | 5          | 5          |
+| Leg Curl                               | 90          | 7          | 5          | 3          |
+| Flat Dumbbell Chest Press              | 85          | 7 (+2)     | 5 (+2)     | 2          |
+| Inclined Dumbbell Chest Press          | 65          | 7          | 5 (+1)     | 2          |
+| Cable Flyes                            | 20          | 7          | 5          | 5          |
+| Preacher Curls                         | 80 (-5)     | 7          | 6          | 4          |
+| Hammer Curls                           | 35 (+5)     | 7          | 4          | 2          |

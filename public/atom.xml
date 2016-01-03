@@ -4,7 +4,7 @@
   <title><![CDATA[The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-01-02T18:07:47-08:00</updated>
+  <updated>2016-01-02T18:22:17-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The New Year Resolution Gymmers]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/01/02/the-new-year-resolution-gymmers/"/>
+    <updated>2016-01-02T18:10:24-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/01/02/the-new-year-resolution-gymmers</id>
+    <content type="html"><![CDATA[<p>I was honestly a bit scared when I headed to the gym this morning, but it turned out that most of the people I saw there looked like gym veterans. All jacked and everything. My bad.</p>
+
+<p>Well here was my performance this time around</p>
+
+<table>
+<thead>
+<tr>
+<th> Lift                                   </th>
+<th style="text-align:center;"> weight (lbs)</th>
+<th style="text-align:center;"> set 1 reps </th>
+<th style="text-align:center;"> set 2 reps </th>
+<th style="text-align:center;"> set 3 reps </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Deadlift                               </td>
+<td style="text-align:center;"> 255         </td>
+<td style="text-align:center;"> 7          </td>
+<td style="text-align:center;"> 5          </td>
+<td style="text-align:center;"> 5          </td>
+</tr>
+<tr>
+<td> Leg Curl                               </td>
+<td style="text-align:center;"> 90          </td>
+<td style="text-align:center;"> 7          </td>
+<td style="text-align:center;"> 5          </td>
+<td style="text-align:center;"> 3          </td>
+</tr>
+<tr>
+<td> Flat Dumbbell Chest Press              </td>
+<td style="text-align:center;"> 85          </td>
+<td style="text-align:center;"> 7 (+2)     </td>
+<td style="text-align:center;"> 5 (+2)     </td>
+<td style="text-align:center;"> 2          </td>
+</tr>
+<tr>
+<td> Inclined Dumbbell Chest Press          </td>
+<td style="text-align:center;"> 65          </td>
+<td style="text-align:center;"> 7          </td>
+<td style="text-align:center;"> 5 (+1)     </td>
+<td style="text-align:center;"> 2          </td>
+</tr>
+<tr>
+<td> Cable Flyes                            </td>
+<td style="text-align:center;"> 20          </td>
+<td style="text-align:center;"> 7          </td>
+<td style="text-align:center;"> 5          </td>
+<td style="text-align:center;"> 5          </td>
+</tr>
+<tr>
+<td> Preacher Curls                         </td>
+<td style="text-align:center;"> 80 (-5)     </td>
+<td style="text-align:center;"> 7          </td>
+<td style="text-align:center;"> 6          </td>
+<td style="text-align:center;"> 4          </td>
+</tr>
+<tr>
+<td> Hammer Curls                           </td>
+<td style="text-align:center;"> 35 (+5)     </td>
+<td style="text-align:center;"> 7          </td>
+<td style="text-align:center;"> 4          </td>
+<td style="text-align:center;"> 2          </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>So I took the preacher curls down 5 pounds, since the barbell was 80 pounds, not 85.</p>
+
+<p>For exercises in which the weight changed, I did not bother calculating the delta.</p>
+
+<p>Overall, not bad. I see some improvement.</p>
+
+<p>Press the advantage. Keep it up.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2016 First Week Overview]]></title>
