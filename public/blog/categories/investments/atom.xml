@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Investments | The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/blog/categories/investments/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-01-04T22:36:34-08:00</updated>
+  <updated>2016-01-04T23:12:59-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Catching E. Coli]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/01/04/catching-e-coli/"/>
+    <updated>2016-01-04T22:45:30-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/01/04/catching-e-coli</id>
+    <content type="html"><![CDATA[<p>Ok I probably shouldn&rsquo;t have titled the post this way. Anyhow, let&rsquo;s take a look at CMG.</p>
+
+<p><img src="/images/investments/2016-01-04_cmg_weekly.png" title="Catching E. Coli" alt="Alt text" /></p>
+
+<p>Over the past 3 months, CMG has fallen around 40%. Stochastics are screaming the oversold signal (though CMG can still fall further). Note the ascending trendline support going back to 2009. This has acted as a solid support since then, and we can attempt to play CMG for a bounce at around the 400 level.</p>
+
+<p>For those that like to front-run the trade though, you may also target the 433 level, as that is a 61.8% Fib level, with the retracement starting from 2012 lows.</p>
+
+<p>In general, according to technical patterns, it is highly probable that the area from 400 to 433 will act as some level of support or consolidation area.</p>
+
+<p>With the increase in volatility, we can look to the options market to place a trade in hopes for a bounce, as the premium in CMG is slightly inflated.</p>
+
+<p>Please examine the following trade idea:</p>
+
+<p><img src="/images/investments/2016-01-04_cmg_weekly_risk_graph.png" title="Potential trade idea" alt="Alt text" /></p>
+
+<p>Here, we buy 1 400 PUT while financing that by selling 2 375 PUTs, for a total of 0.36 credit. Our breakeven for this trade is around 349. If CMG trades above this price by the 5th Friday of January, we are profitable. This trade has a 99.72% probability of profit, has a maximum loss of $34,964, and a potential maximum profit of $2536.00. For those that do not like the big downside risk, you can also buy a more OOM put, and potentially pay 0 for this trade.</p>
+
+<p>Do note that CMG reports earnings on Feb 2, so to lessen the likelihood of being run over by a binary event, aim to trade options that expire before that date (unless you do want to play the earnings).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Welcome the 2016 Stock Market]]></title>
@@ -76,19 +103,6 @@
 <p>Was today a profitable day? No. Did I feel good about my trades? Yes, because I did not place any. I&rsquo;ve already sold some OOM calls on this overbought stochastic reading, and, because I&rsquo;m not going to add more negative deltas, I&rsquo;m just going to sit and wait for the next drop. At that point, I&rsquo;ll probably lower my delta exposure. For now, not much I can do anyway. I won&rsquo;t even sell puts to flatten those deltas because it&rsquo;s not worth it in a low IV environment.</p>
 
 <p>My honest opinion? Today&rsquo;s rally was the <a href="http://www.zerohedge.com/news/2015-12-29/herd-heading-cliff" title="idiots' rally">idiots' rally</a> of the week. Just saying.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Taking Flight]]></title>
-    <link href="http://mentoringmachine.com/blog/2015/12/28/taking-flight/"/>
-    <updated>2015-12-28T19:54:29-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2015/12/28/taking-flight</id>
-    <content type="html"><![CDATA[<p>Today I started my first day at Stellar. I would say I made decent progress so far - I thought it would take me a bit longer to get the codebase up and running, but I already have the environment setup and am already beginning to take a look at the code that I&rsquo;ll be working with. Score. Tomorrow, I&rsquo;ll dive deeper into the code, and will be recording what I find in a doc.</p>
-
-<p>On the health side, today was an &ldquo;off day,&rdquo; meaning no working out. For about the first month, no cardio with be incorporated into my fitness routines. This is just for me to retain the new behavioral changes more easily. Tomorrow, I&rsquo;ll be waking up early to hit the gym, so I&rsquo;ll need to review my plan later tonight and mentally prepare as well. As for tonight, I&rsquo;ll be eating the food I had cooked yesterday.</p>
-
-<p>On the investments front, not much happened today. I opened up an IC today on IWM, since it currently showed the highest IV rank out of the DIA, QQQ, IWM, and SPY. A trade was closed in P for a 50% profit, so I&rsquo;ll take that. Other than that, no opening trades today, which is nice. On a low volume day, and not much IV increase, I&rsquo;ll sit on my hands. We&rsquo;ll see how the market behaves tomorrow, but I do not expect volume to pick up either, nor any major market movement to occur, so I&rsquo;ll probably be sitting on my hands again.</p>
 ]]></content>
   </entry>
   

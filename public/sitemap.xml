@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mentoringmachine.com/blog/2016/01/04/catching-e-coli/</loc>
+    <lastmod>2016-01-04T22:45:30-08:00</lastmod>
+  </url>
+  <url>
     <loc>http://mentoringmachine.com/blog/2016/01/04/welcome-the-2016-stock-market/</loc>
     <lastmod>2016-01-04T22:33:25-08:00</lastmod>
   </url>
@@ -70,13 +74,13 @@
     <loc>http://mentoringmachine.com/health/</loc>
   </url>
   <url>
-    <loc>http://mentoringmachine.com/career/</loc>
+    <loc>http://mentoringmachine.com/about/</loc>
   </url>
   <url>
     <loc>http://mentoringmachine.com/home/</loc>
   </url>
   <url>
-    <loc>http://mentoringmachine.com/about/</loc>
+    <loc>http://mentoringmachine.com/career/</loc>
   </url>
   <url>
     <loc>http://mentoringmachine.com/investments/</loc>
