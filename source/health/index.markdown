@@ -26,12 +26,12 @@ Here are my current routine measurements
 | ---------------------------------------|:------------:|:----------:|:----------:|:----------:|
 | Lat Pulldown                           | 140          | 7          | 4          | 3          |
 | T Rows                                 | 70           | 7          | 5          | 5          |
-| Smith Machine Barbell Rows             | 135          | 7          | 5          | 5          |
-| Behind the Back Barbell Shoulder Press | 125          | 7          | 4          | 3          |
-| Dumbbell Shoulder Press                | 60           | 7          | 4          | 3          |
-| Cable Lateral Shoulder Raise           | 10           | 7          | 5          | 5          |
-| Rope Tricep Pushdown                   | 50           | 7          | 5          | 3          |
-| Straight Bar Tricep Pushdown           | 30           | 10         | 8          | 6          | 
+| Smith Machine Barbell Rows             | 135          | 8          | 6          | 5          |
+| Behind the Back Barbell Shoulder Press | 125          | 7          | 3          | 2          |
+| Dumbbell Shoulder Press                | 60           | 7          | 4          | 2          |
+| Cable Lateral Shoulder Raise           | 10           | 10         | 6          | 5          |
+| Rope Tricep Pushdown                   | 50           | 7          | 5          | 4          |
+| Straight Bar Tricep Pushdown           | 35           | 10         | 7          | 6          | 
 
 **Day B**
 
