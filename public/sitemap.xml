@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mentoringmachine.com/blog/2016/01/04/welcome-the-2016-stock-market/</loc>
+    <lastmod>2016-01-04T22:33:25-08:00</lastmod>
+  </url>
+  <url>
     <loc>http://mentoringmachine.com/blog/2016/01/02/the-new-year-resolution-gymmers/</loc>
     <lastmod>2016-01-02T18:10:24-08:00</lastmod>
   </url>
@@ -85,5 +89,8 @@
   </url>
   <url>
     <loc>http://mentoringmachine.com/blog/categories/investments/</loc>
+  </url>
+  <url>
+    <loc>http://mentoringmachine.com/posts/2/</loc>
   </url>
 </urlset>
