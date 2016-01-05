@@ -20,7 +20,7 @@ With the increase in volatility, we can look to the options market to place a tr
 
 Please examine the following trade idea:
 
-[![Potential trade idea](images/investments/2016-01-04_cmg_weekly_risk_graph.png)](images/investments/2016-01-04_cmg_weekly_risk_graph.png)
+[![Potential trade idea](/images/investments/2016-01-04_cmg_weekly_risk_graph.png)](/images/investments/2016-01-04_cmg_weekly_risk_graph.png)
 
 Here, we buy 1 400 PUT while financing that by selling 2 375 PUTs, for a total of 0.36 credit. Our breakeven for this trade is around 349. If CMG trades above this price by the 5th Friday of January, we are profitable. This trade has a 99.72% probability of profit, has a maximum loss of $34,964, and a potential maximum profit of $2536.00. For those that do not like the big downside risk, you can also buy a more OOM put, and potentially pay 0 for this trade.
 
