@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Investments | The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/blog/categories/investments/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-01-16T12:32:20-08:00</updated>
+  <updated>2016-01-16T13:39:22-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Staying Small]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/01/16/staying-small/"/>
+    <updated>2016-01-16T12:49:16-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/01/16/staying-small</id>
+    <content type="html"><![CDATA[<p>The past week has been a huge tidal wave for my equity curve.</p>
+
+<p>I got emotional after finding out that my OOM naked puts on /ES were getting closer to being ITM, sold an /ES to neutralize some deltas, only to find that the market would rip higher the next day. Then I neutralized more deltas by selling more puts (putting on more size), only to see the market drop huge the next day, forcing me to sell another /ES to neutralize more deltas, only to see the market close above my cost basis for /ES.</p>
+
+<p>Obviously, the problem wasn&rsquo;t in neutralizing deltas. It was putting on too much size at the beginning. Instead of starting with many naked puts on the /ES (many as in more than I was comfortable with), I should&rsquo;ve kept it small, and probably should&rsquo;ve bought a more OOM put to reduce risk and lower buying power requirement.</p>
+
+<p>It seems that I still have not learned. The goal of staying small has not yet been achieved. I will mark this as a top goal to achieve in my current investments goal page. I will keep this in check every day, before I place a trade.</p>
+
+<p>Good luck to me next week. I should be good to the downside, and any upside will really bring in some premium.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Outlook on AMZN]]></title>
@@ -34,7 +51,7 @@
 
 <p><a href="/images/investments/2016-01-16_amzn_short_term.png"><img src="/images/investments/2016-01-16_amzn_short_term.png" alt="AMZN - Long Term" /></a></p>
 
-<p>In the shorter time frame (next couple of weeks), keep a close eye on AMZN as we may see a bounce. Current market stochastics signal an oversold condition (although we&rsquo;ve been oversold since last week). If we do bounce, and we bounce hard, look for a break above 580 (resistance level from the previous quarter), and expect some temporary short-covering. First target should be 595 (support level of the recent quarter), followed by 630 (intermediate support/resistance level of recent quarter).</p>
+<p>In the shorter time frame (next couple of weeks), keep a close eye on AMZN as we may see a bounce. Current market stochastics signal an oversold condition (although we&rsquo;ve been oversold since last week). If we do bounce, and we bounce hard, look for a break above 580 (resistance level from the previous quarter). A break above 580 will cause some short-covering. First target should be 595 (support level of the recent quarter), followed by 630 (intermediate support/resistance level of recent quarter).</p>
 
 <p>Do note that AMZN reports earnings on 1/28 after the market closes. If you plan on avoiding big binary events, stay on options that expire before then.</p>
 ]]></content>
@@ -114,19 +131,6 @@
 
 
 <p>Keep a close eye here on this section of the blog. I will try to be posting daily premarket updates.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2016 First Week Overview]]></title>
-    <link href="http://mentoringmachine.com/blog/2016/01/02/2016-first-week-overview/"/>
-    <updated>2016-01-02T18:02:26-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2016/01/02/2016-first-week-overview</id>
-    <content type="html"><![CDATA[<p>Time to start packing meals for work.</p>
-
-<p>One thing I want to do for my investments is to follow ShadowTrader&rsquo;s trade ideas more. I&rsquo;ll place a smaller size of them, so that when they do work out, well, at least I&rsquo;m not missing out.</p>
-
-<p>Bulk prep tomorrow. Let&rsquo;s do this.</p>
 ]]></content>
   </entry>
   
