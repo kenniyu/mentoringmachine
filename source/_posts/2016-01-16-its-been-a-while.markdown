@@ -10,7 +10,7 @@ It has been a while since my last post, but it has also been a great start to 20
 
 **Health**
 
-I was able to prepare meals to take to work most of the time, with the occasional cheat meal. I've noticed that my body fat has gone down just by look and feel. This is good, and I should press the advantage and keep going, instead of giving me more rope for slack. I need to stock up on lean meats again. I did a great job finishing them all.
+I was able to prepare meals to take to work most of the time, with the occasional cheat meal. I've noticed that my body fat has gone down just by look and feel. This is good, and I should press the advantage and use this to push me foward instead of giving me more rope for slack. I need to stock up on lean meats again. I did a great job finishing them all.
 
 In terms of my workouts, I seem to be plateauing in some exercises. Will revisit in specific blog post.
 
