@@ -10,6 +10,7 @@ footer: true
 Here is a list of trading goals that I wish to accomplish. You can view my progress here.
 
 ░ Stay SMALL (control risk on entry)<br/>
+░ Follow SquawkBox every morning<br/>
 ░ Participate in ST's directional trades, adjust risk according to personal risk tolerance<br/>
 ░ Enter trades on pullbacks<br/>
 ✓ Sell premium when IV is high (above 50%)<br/>
