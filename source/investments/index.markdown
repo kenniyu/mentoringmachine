@@ -10,8 +10,9 @@ footer: true
 Here is a list of trading goals that I wish to accomplish. You can view my progress here.
 
 ░ Stay SMALL (control risk on entry)<br/>
+░ Participate in ST's directional trades, adjust risk according to personal risk tolerance<br/>
 ░ Enter trades on pullbacks<br/>
-░ Sell premium when IV is high (above 50%)<br/>
+✓ Sell premium when IV is high (above 50%)<br/>
 ✓ Enter contrarian trades based off overbought/oversold stochastic indicators, and support/resistance levels<br/>
 ✓ Sell strangles, not ICs, on indices when IV is high (Can sell ICs on individual stocks)
 ✓ Avoid trading biotechs and FANG naked<br/>
