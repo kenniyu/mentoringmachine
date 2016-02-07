@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Investments | The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/blog/categories/investments/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-01-21T22:53:01-08:00</updated>
+  <updated>2016-02-06T23:13:31-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Constantly Improving Myself]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/02/06/constantly-improving-myself/"/>
+    <updated>2016-02-06T19:57:45-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/02/06/constantly-improving-myself</id>
+    <content type="html"><![CDATA[<p>I meant to write this post earlier this month, but with things getting so busy at work, I couldn&rsquo;t find the time to until recently.</p>
+
+<p>Not a whole lot has been different in the fronts of work and health. I&rsquo;ve been making steady progress in both of those aspects, and I&rsquo;ve been surprisingly consistent with waking up to work out in the mornings. I think this has helped bring me closer to the body shape that I want, but more can be done here. As for work, every day is an accomplishment of its own (establishing new features/frameworks in the Swift app and knocking out whatever needs to be done in the Obj-C side). However, most importantly, I wanted to review and strengthen the investment category, because I feel like this area is one that I can consciously train myself on to get better at, as it is one of the newer aspects.</p>
+
+<p>A brief overview of January - great month, sold tons of premium and collected a huge amount. It must have been the volatility that allowed me to collect so much. One thing that did have me a bit worried was the last day of the month, however. A 50 point rally almost resulted in my having negative buying power in my account. Luckily, the bears took over this past week. Point here is, my size was in fact, too big for my own good. This is still something I need work on, and I&rsquo;ll need to take that down a notch. I haven&rsquo;t been going through a checklist before placing a trade, so I&rsquo;ll need to enforce that.</p>
+
+<p>The first week of February is decent so far. Started just about the same way as it did for January. Every week, I&rsquo;m reviewing ST&rsquo;s videos on the market, and I&rsquo;m going to analyze the market myself as well and post them here. I&rsquo;ve also been looking at a book by James Dalton - <em>Markets in Profile - Profiting from the Auction Process</em>. Great read so far, and I&rsquo;m looking forward to applying the psychology and lessons of those in my trades going forward.</p>
+
+<p>Last time, I also mentioned that one of my new goals is to add more directional trades. I have been, and they have been working out great, probably due to the volatility of this market. I also make sure to lock in profits when I get them. This has been a great way to keep my net liquidity up. I need to slowly increase size and not get overconfident to the point where my emotions come in and mess with my analysis. I&rsquo;ll need to stay fluid.</p>
+
+<p>I&rsquo;ll follow up with a post about where I think the market is headed next week, along with some trade ideas. This should be posted tomorrow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reviewing and Adding Investment Goals]]></title>
@@ -92,33 +111,6 @@
 <p><strong>Career</strong></p>
 
 <p>It&rsquo;s been great so far. The team is friendly, and everyone gets along just fine. I&rsquo;ll be ramping up the Swift portion of our app. Many of the fundamental building blocks is already done. Soon, after the core features are built, I can begin to expand and lead.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Catching E. Coli]]></title>
-    <link href="http://mentoringmachine.com/blog/2016/01/04/catching-e-coli/"/>
-    <updated>2016-01-04T22:45:30-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2016/01/04/catching-e-coli</id>
-    <content type="html"><![CDATA[<p>Ok I probably shouldn&rsquo;t have titled the post this way. Anyway, let&rsquo;s take a look at CMG.</p>
-
-<p><a href="/images/investments/2016-01-04_cmg_weekly.png"><img src="/images/investments/2016-01-04_cmg_weekly.png" alt="Catching E. Coli" /></a></p>
-
-<p>Over the past 3 months, CMG has fallen around 40%. Stochastics are screaming the oversold signal (though CMG can still fall further). Note the ascending trendline support going back to 2009. This has acted as a solid support since then, and we can attempt to play CMG for a bounce at around the 400 level.</p>
-
-<p>For those that like to front-run the trade though, you may also target the 433 level, as that is a 61.8% Fib level, with the retracement starting from 2012 lows.</p>
-
-<p>In general, according to technical patterns, it is highly probable that the area from 400 to 433 will act as some level of support or consolidation area.</p>
-
-<p>With the increase in volatility, we can look to the options market to place a trade in hopes for a bounce, as the premium in CMG is slightly inflated.</p>
-
-<p>Please examine the following trade idea:</p>
-
-<p><a href="/images/investments/2016-01-04_cmg_weekly_risk_graph.png"><img src="/images/investments/2016-01-04_cmg_weekly_risk_graph.png" alt="Potential trade idea" /></a></p>
-
-<p>Here, we buy 1 400 PUT while financing that by selling 2 375 PUTs, for a total of 0.36 credit. Our breakeven for this trade is around 349. If CMG trades above this price by the 5th Friday of January, we are profitable. This trade has a 99.72% probability of profit, has a maximum loss of $34,964, and a potential maximum profit of $2536.00. For those that do not like the big downside risk, you can also buy a more OOM put, and potentially pay 0 for this trade.</p>
-
-<p>Do note that CMG reports earnings on Feb 2, so to lessen the likelihood of being run over by a binary event, aim to trade options that expire before that date (unless you do want to play the earnings).</p>
 ]]></content>
   </entry>
   

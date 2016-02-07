@@ -4,7 +4,7 @@
   <title><![CDATA[The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-01-21T22:53:01-08:00</updated>
+  <updated>2016-02-06T23:13:31-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Constantly Improving Myself]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/02/06/constantly-improving-myself/"/>
+    <updated>2016-02-06T19:57:45-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/02/06/constantly-improving-myself</id>
+    <content type="html"><![CDATA[<p>I meant to write this post earlier this month, but with things getting so busy at work, I couldn&rsquo;t find the time to until recently.</p>
+
+<p>Not a whole lot has been different in the fronts of work and health. I&rsquo;ve been making steady progress in both of those aspects, and I&rsquo;ve been surprisingly consistent with waking up to work out in the mornings. I think this has helped bring me closer to the body shape that I want, but more can be done here. As for work, every day is an accomplishment of its own (establishing new features/frameworks in the Swift app and knocking out whatever needs to be done in the Obj-C side). However, most importantly, I wanted to review and strengthen the investment category, because I feel like this area is one that I can consciously train myself on to get better at, as it is one of the newer aspects.</p>
+
+<p>A brief overview of January - great month, sold tons of premium and collected a huge amount. It must have been the volatility that allowed me to collect so much. One thing that did have me a bit worried was the last day of the month, however. A 50 point rally almost resulted in my having negative buying power in my account. Luckily, the bears took over this past week. Point here is, my size was in fact, too big for my own good. This is still something I need work on, and I&rsquo;ll need to take that down a notch. I haven&rsquo;t been going through a checklist before placing a trade, so I&rsquo;ll need to enforce that.</p>
+
+<p>The first week of February is decent so far. Started just about the same way as it did for January. Every week, I&rsquo;m reviewing ST&rsquo;s videos on the market, and I&rsquo;m going to analyze the market myself as well and post them here. I&rsquo;ve also been looking at a book by James Dalton - <em>Markets in Profile - Profiting from the Auction Process</em>. Great read so far, and I&rsquo;m looking forward to applying the psychology and lessons of those in my trades going forward.</p>
+
+<p>Last time, I also mentioned that one of my new goals is to add more directional trades. I have been, and they have been working out great, probably due to the volatility of this market. I also make sure to lock in profits when I get them. This has been a great way to keep my net liquidity up. I need to slowly increase size and not get overconfident to the point where my emotions come in and mess with my analysis. I&rsquo;ll need to stay fluid.</p>
+
+<p>I&rsquo;ll follow up with a post about where I think the market is headed next week, along with some trade ideas. This should be posted tomorrow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reviewing and Adding Investment Goals]]></title>
@@ -914,26 +933,6 @@
     <updated>2015-12-25T22:47:17-08:00</updated>
     <id>http://mentoringmachine.com/blog/2015/12/25/second-post</id>
     <content type="html"><![CDATA[<p>Starting Monday, December 28, I&rsquo;ll be starting a new chapter in my career. I&rsquo;ll be taking on the role of leading the iOS team over at <a href="http://www.stellar.aero" title="Stellar Labs">Stellar Labs</a>, helping them create their mobile product. I&rsquo;m super excited for this opportunity, am looking for a change of pace in terms of my work and my career growth, and cannot wait to just crush it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://mentoringmachine.com/blog/2015/12/25/first-post/"/>
-    <updated>2015-12-25T22:09:12-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2015/12/25/first-post</id>
-    <content type="html"><![CDATA[<p>Hello world,</p>
-
-<p>This is the beginning of the blog, which will pertain to the following 3 aspects of my life:</p>
-
-<ul>
-<li>career</li>
-<li>health</li>
-<li>investments</li>
-</ul>
-
-
-<p>I&rsquo;ll be coaching myself daily to improve upon these areas. Follow along with my blog to view my progress.</p>
 ]]></content>
   </entry>
   
