@@ -36,7 +36,7 @@ Again, this spells bearish to me. We had two bullish hammers from 3 weeks ago, e
 
 The same is true for the RUT:
 
-[![RUT](/images/investments/2016-02-07_rut_weekly.png)](/images/investments/2016-02-07_rut_weekly.png)
+[![RUT](/images/investments/2016-02-07_rut_weekly_2.png)](/images/investments/2016-02-07_rut_weekly_2.png)
 
 Even clearer here, as it exhibits a prominent "bear flag" pattern.
 
