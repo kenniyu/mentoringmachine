@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Investments | The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/blog/categories/investments/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-02-06T23:13:31-08:00</updated>
+  <updated>2016-02-07T11:31:29-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Market Outlook - 02/08/16]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/02/07/weekly-market-outlook-02-slash-08-slash-16/"/>
+    <updated>2016-02-07T11:02:51-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/02/07/weekly-market-outlook-02-slash-08-slash-16</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the market outlook for this upcoming week.</p>
+
+<p>I&rsquo;ll begin by looking at the broad market indices.</p>
+
+<p>Here&rsquo;s the SPX:</p>
+
+<p><a href="/images/investments/2016-02-07_spx_zoomed_in_balance.png"><img src="/images/investments/2016-02-07_spx_zoomed_in_balance.png" alt="SPX" /></a></p>
+
+<p>2 weeks ago, the market consolidated in the range shown by the blue lines, and subsequently broke out of that to the upside by approximately 50 points. Generally, that&rsquo;s a bullish signal (when we break out of balance with such a strong move, the expected movement is a continuation). However, not only did we stall there the next day, but over this past week, we fell back down. Just this past Friday, we broke back into that balance area and <em>closed</em> the trading day on the lows of that balance area. This spells to me a bearish tone in magnitude greater than the bullish one we had last Friday (when we broke out of balance). The reason is that, when we broke out of balance to the upside, we expected the move to continue that way, but as James Dalton said, if what we expect to happen doesn&rsquo;t happen, then we should expect a hard movement in the other direction.</p>
+
+<p>Given all of that, I expect the SPX to continue its move downwards in the short term. I&rsquo;m not ruling out the possibility of any rallies from here on out, but I think the probabilities are small, and even if we do rally, it should be a small bounce before we soon continue lower.</p>
+
+<p>So where can we go from here? Let&rsquo;s zoom out and take a look at the bigger picture on the weekly SPX chart:</p>
+
+<p><a href="/images/investments/2016-02-07_spx_zoomed_out_target.png"><img src="/images/investments/2016-02-07_spx_zoomed_out_target.png" alt="SPX" /></a></p>
+
+<p>Assuming bearish pressure continues, we should be headed towards the ascending trendline support. In the next couple of weeks, that would be around the 1750 to the 1800 level. A possible trade idea here is setting up a fly around the target area to capture that premium drain about two weeks out. I&rsquo;ve already set up a balanced fly expiring in February, 25 points wide, centered at 1760.</p>
+
+<p>From that supporting trendline, we could see a bounce, so when we get there, I&rsquo;ll talk about the possible bounce plays. Until then, my target remains that trendline.</p>
+
+<p>Let&rsquo;s also take a look at other indices.</p>
+
+<p>Here&rsquo;s the weekly on the NDX:</p>
+
+<p><a href="/images/investments/2016-02-07_ndx_weekly.png"><img src="/images/investments/2016-02-07_ndx_weekly.png" alt="NDX" /></a></p>
+
+<p>Again, this spells bearish to me. We had two bullish hammers from 3 weeks ago, each of which insinuates a move higher, but instead, this past week, we erased all of that (buyer shutout) and closed even lower.</p>
+
+<p>The same is true for the RUT:</p>
+
+<p><a href="/images/investments/2016-02-07_rut_weekly.png"><img src="/images/investments/2016-02-07_rut_weekly.png" alt="RUT" /></a></p>
+
+<p>Here&rsquo;s the DJX:</p>
+
+<p><a href="/images/investments/2016-02-07_djx_weekly.png"><img src="/images/investments/2016-02-07_djx_weekly.png" alt="DJX" /></a></p>
+
+<p>Which doesn&rsquo;t appear quite as bearish as the other 3 indices, but with the majority of the indices all looking very bearish, it won&rsquo;t be long before this index follows them as well.</p>
+
+<p>Hope you enjoyed the weekly outlook, and even better if you take action. Good luck!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Constantly Improving Myself]]></title>
@@ -88,29 +135,6 @@
 <p>In the shorter time frame (next couple of weeks), keep a close eye on AMZN as we may see a bounce. Current market stochastics signal an oversold condition (although we&rsquo;ve been oversold since last week). If we do bounce, and we bounce hard, look for a break above 580 (resistance level from the previous quarter). A break above 580 will cause some short-covering. First target should be 595 (support level of the recent quarter), followed by 630 (intermediate support/resistance level of recent quarter).</p>
 
 <p>Do note that AMZN reports earnings on 1/28 after the market closes. If you plan on avoiding big binary events, stay on options that expire before then.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[It's Been a While]]></title>
-    <link href="http://mentoringmachine.com/blog/2016/01/16/its-been-a-while/"/>
-    <updated>2016-01-16T00:24:08-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2016/01/16/its-been-a-while</id>
-    <content type="html"><![CDATA[<p>It has been a while since my last post, but it has also been a great start to 2016. I&rsquo;ll give brief updates here on each of the pillars, and more in detail with each deserving their own post.</p>
-
-<p><strong>Health</strong></p>
-
-<p>I was able to prepare meals to take to work most of the time, with the occasional cheat meal. I&rsquo;ve noticed that my body fat has gone down just by look and feel. This is good, and I should press the advantage and use this to push me foward instead of giving me more rope for slack. I need to stock up on lean meats again. I did a great job finishing them all.</p>
-
-<p>In terms of my workouts, I seem to be plateauing in some exercises. Will revisit in specific blog post.</p>
-
-<p><strong>Investments</strong></p>
-
-<p>So far, I&rsquo;m up on the year, but I could&rsquo;ve been more positive on the year had it not been for the past two days of havoc. I overtraded and cost myself some premium I could&rsquo;ve collected. Now, I&rsquo;ll need to wait god knows how long for premium to come in. Besides that, there better be some kind of a downmove, because I&rsquo;m currently short some /ES futures, and any big rips to the upside will kill me directionally unless I sell premium from put options into it. More plans to come, and new goals to try to add to the list to tackle.</p>
-
-<p><strong>Career</strong></p>
-
-<p>It&rsquo;s been great so far. The team is friendly, and everyone gets along just fine. I&rsquo;ll be ramping up the Swift portion of our app. Many of the fundamental building blocks is already done. Soon, after the core features are built, I can begin to expand and lead.</p>
 ]]></content>
   </entry>
   
