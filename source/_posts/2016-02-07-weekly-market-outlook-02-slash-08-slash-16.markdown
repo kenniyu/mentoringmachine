@@ -38,6 +38,8 @@ The same is true for the RUT:
 
 [![RUT](/images/investments/2016-02-07_rut_weekly.png)](/images/investments/2016-02-07_rut_weekly.png)
 
+Even clearer here, as it exhibits a prominent "bear flag" pattern.
+
 Here's the DJX: 
 
 [![DJX](/images/investments/2016-02-07_djx_weekly.png)](/images/investments/2016-02-07_djx_weekly.png)
