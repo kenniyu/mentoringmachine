@@ -8,7 +8,7 @@ body {
 	
 	> header {
 		text-align: center;
-		letter-spacing: 5px;
+//        letter-spacing: 5px;
 		height: 250px;
 		padding: 0;
 		
@@ -156,7 +156,7 @@ p {
 	a {
 		text-transform: uppercase;
 		text-decoration: none;
-		color: #fff;
+		color: #000;
 		&:hover {
 			color:  #e7d0ba;
 		}

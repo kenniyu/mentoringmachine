@@ -8,8 +8,8 @@ $link-color-visited: #E1C6AA;//adjust-color($link-color, $hue: 80, $lightness: -
 $link-color-active: #E1C6AA;//adjust-color($link-color-hover, $lightness: -15) !default;
 
 // Main Section Colors
-$main-bg: #0E0907 !default;
-$page-bg: #0E0907 !default;
+$main-bg: #fff !default;
+$page-bg: #fff !default;
 $article-border: #0E0907 !default;
 
 $header-bg: #0E0907 !default;
@@ -17,25 +17,25 @@ $header-border: lighten($header-bg, 15) !default;
 $title-color: #ffffff !default;
 $subtitle-color: #8E8E8E !default;
 
-$text-color: #fff !default;
-$text-color-light: #fff !default;
+$text-color: #000 !default;
+$text-color-light: #333 !default;
 $type-border: #fff !default;
 
 /* Navigation */
-$nav-bg: #0E0907 !default;
-$nav-bg-front: #0E0907;
-$nav-bg-back: #0E0907;
-$nav-color: #fff;
-$nav-color-hover: #fff;
-$nav-placeholder: #fff;
-$nav-border: #0E0907;
-$nav-border-top: #0E0907;
-$nav-border-bottom: #0E0907;
-$nav-border-left: #0E0907;
-$nav-border-right: #0E0907;
+$nav-bg: #fff !default;
+$nav-bg-front: #fff;
+$nav-bg-back: #fff;
+$nav-color: #000;
+$nav-color-hover: #000;
+$nav-placeholder: #333;
+$nav-border: #fff;
+$nav-border-top: #fff;
+$nav-border-bottom: #fff;
+$nav-border-left: #fff;
+$nav-border-right: #fff;
 
 /* Sidebar colors */
-$sidebar-bg: #0E0907 !default;
+$sidebar-bg: #fff !default;
 $sidebar-link-color: $text-color !default;
 $sidebar-link-color-hover: $link-color-hover !default;
 $sidebar-link-color-active: $link-color-active !default;
@@ -52,8 +52,8 @@ $footer-bg-back: #0e0907 !default;
 $footer-color-hover: darken($footer-color, 10) !default;
 $footer-border-top: lighten($footer-bg, 0) !default;
 $footer-border-bottom: darken($footer-bg, 0) !default;
-$footer-link-color: #fff !default;
-$footer-link-color-hover: #fff !default;
+$footer-link-color: #000 !default;
+$footer-link-color-hover: #000 !default;
 $page-border-bottom: darken($footer-bg, 5) !default;
 
 
@@ -70,16 +70,17 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+//  background: $page-bg image-url('line-tile.png') top left;
+  background: #fff;
 }
 body {
   font-family: "Source Code Pro";
   > div {
-    background: $sidebar-bg $noise-bg;
-    border-bottom: 1px solid $page-border-bottom;
+    background: $sidebar-bg;
+//    border-bottom: 1px solid $page-border-bottom;
     > div {
-      background: $main-bg $noise-bg;
-      border-right: 1px solid $sidebar-border;
+      background: $main-bg;
+//      border-right: 0;
     }
   }
 }
