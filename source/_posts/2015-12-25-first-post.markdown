@@ -3,14 +3,13 @@ layout: post
 title: "First Post"
 date: 2015-12-25 22:09:12 -0800
 comments: true
-categories: [career, health, investments]
+categories: [health, investments]
 ---
 
 Hello world,
 
-This is the beginning of the blog, which will pertain to the following 3 aspects of my life:
+This is the beginning of the blog, which will pertain to the following 2 aspects of my life:
 
-- career
 - health
 - investments
 

@@ -4,7 +4,7 @@
   <title><![CDATA[The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-02-08T21:47:35-08:00</updated>
+  <updated>2016-02-21T01:19:27-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Market Outlook]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/02/20/weekly-market-outlook/"/>
+    <updated>2016-02-20T22:54:48-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/02/20/weekly-market-outlook</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the market outlook for the week of Feb 22.</p>
+
+<p><strong>SPX</strong></p>
+
+<p><a href="http://mentoringmachine.com/images/investments/2016-02-20/spx_weekly.png"><img src="http://mentoringmachine.com/images/investments/2016-02-20/spx_weekly.png" alt="SPX" /></a></p>
+
+<p>Here&rsquo;s the weekly chart on the SPX. The long term support trendline hasn&rsquo;t been breached, yet. Taking a closer look on the daily:</p>
+
+<p><a href="http://mentoringmachine.com/images/investments/2016-02-20/spx_daily.png"><img src="http://mentoringmachine.com/images/investments/2016-02-20/spx_daily.png" alt="SPX" /></a></p>
+
+<p>We did not close Friday on a very bearish tone. Instead, we ended with a hammer. While the past week&rsquo;s gains have been mostly due to short covering, we can&rsquo;t ignore price action. We rallied because the market was simply too short before. However, this poor structure represented by the short-covering rally is vulnerable to liquidation breaks; therefore, we can <em>easily</em> see price rotate all the way to the bottom of the &ldquo;balance area&rdquo; (the area denoted by the left-most pink rectangle) once we begin to sell off again. (1)</p>
+
+<p>If we do sell off to the bottom of the balance area, then this time, we may actually break its bottom and head lower into the area denoted by the bottom-right pink rectangle. Why may we break it? We&rsquo;ve knocked on the door two times already, so it shouldn&rsquo;t take much more for the door to open with subsequent knocks. The expected range extension if we do break out of our balance area is the bottom of the pink area, which is just a bit below the 1700 level. (2)</p>
+
+<p>Still, we cannot rule out the possibility of rallying above the smaller blue trendline resistance hovering just above this balance area. Once that level breaks, it isn&rsquo;t hard for the market to continue rallying up to the top of the top right pink rectangle, which falls in line with the highest level of trendline resistance. This is what <em>should</em> happen, and if it does not reach that level, but instead falls back down into the balance area, carry that information forward as a sign of market weakness. (3)</p>
+
+<p>So how is any of this information actionable?</p>
+
+<p>(1) For trading the balance area, any break below Friday&rsquo;s low should lead us to revisit the bottom of this balance area. This would be the 1900 level. We can buy vertical put spreads for a cheap price. Or we can also sell a vertical call spread on SPX out in March for a higher probability trade, and if we&rsquo;re wrong, roll it out to April for duration to help us be right eventually.</p>
+
+<p>(2) For trading a break below the current balance area, since selling should accelerate, IV will increase quickly. A very far and wide out of the money vertical put debit spread should be able to harvest the gains. One can also think about financing this by selling a naked, out of the money call option.</p>
+
+<p>(3) For trading a break above the current balance area, since the short covering rally should continue, a far out of the money call spread works just as well. This should be relatively cheap as well and can be financed with either a further and wider credit call vertical, or a credit put vertical spread below the current balance area.</p>
+
+<p>Another possible trade idea is, if we expect price to break sharply in either direction, we can also sell a butterfly centered around the current price. Adjust the wings to risk tolerance. For a directional bias, a call or put backratio works just as well. Use SPY if SPX is too large.</p>
+
+<p>I&rsquo;ll provide more updates as the week progresses. Wish you all good trading!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Look at Jumbotrons]]></title>
@@ -760,226 +795,6 @@
 
 
 <p>I will buy these tomorrow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Prepared Weight Lifting Routines]]></title>
-    <link href="http://mentoringmachine.com/blog/2015/12/26/preparing-weight-lifting-plans/"/>
-    <updated>2015-12-26T16:03:07-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2015/12/26/preparing-weight-lifting-plans</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve created my weight lifting routines, which I will stick with for 3 months before thinking about changing it up. I will plan to wake up every other day at 5:00, in time to consume a protein shake and get to the gym by 5:30. Workouts should last no longer than 1 hour.</p>
-
-<p>Here are the different routines:</p>
-
-<p><strong>Day A</strong></p>
-
-<table>
-<thead>
-<tr>
-<th> name                                   </th>
-<th style="text-align:center;"> weight </th>
-<th style="text-align:center;"> set 1 reps </th>
-<th style="text-align:center;"> set 2 reps </th>
-<th style="text-align:center;"> set 3 reps </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Lat Pulldown                           </td>
-<td style="text-align:center;"> 170    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 3          </td>
-<td style="text-align:center;"> 3          </td>
-</tr>
-<tr>
-<td> Smith Machine Underhand Barbell Rows   </td>
-<td style="text-align:center;"> 135    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Behind the Back Barbell Shoulder Press </td>
-<td style="text-align:center;"> 115    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Dumbbell Shoulder Press                </td>
-<td style="text-align:center;"> 65     </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Cable Lateral Shoulder Raise           </td>
-<td style="text-align:center;"> 7.5    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Straight Bar Tricep Pushdown           </td>
-<td style="text-align:center;"> 40     </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Dips                                   </td>
-<td style="text-align:center;"> body   </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><strong>Day B</strong></p>
-
-<table>
-<thead>
-<tr>
-<th> name                                   </th>
-<th style="text-align:center;"> weight </th>
-<th style="text-align:center;"> set 1 reps </th>
-<th style="text-align:center;"> set 2 reps </th>
-<th style="text-align:center;"> set 3 reps </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Leg Press                           </td>
-<td style="text-align:center;"> 500    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 3          </td>
-<td style="text-align:center;"> 3          </td>
-</tr>
-<tr>
-<td> Leg Extension  </td>
-<td style="text-align:center;"> 150    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Calf Raise </td>
-<td style="text-align:center;"> 150    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Flat Dumbbell Chest Press                </td>
-<td style="text-align:center;"> 85     </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Inclined Dumbbell Chest Press           </td>
-<td style="text-align:center;"> 65    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Cable Flyes           </td>
-<td style="text-align:center;"> 20     </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Preacher Curls                                   </td>
-<td style="text-align:center;"> 85   </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Hammer Curls                                   </td>
-<td style="text-align:center;"> 30   </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><strong>Day C</strong></p>
-
-<table>
-<thead>
-<tr>
-<th> name                                   </th>
-<th style="text-align:center;"> weight </th>
-<th style="text-align:center;"> set 1 reps </th>
-<th style="text-align:center;"> set 2 reps </th>
-<th style="text-align:center;"> set 3 reps </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Deadlift                           </td>
-<td style="text-align:center;"> 225    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 3          </td>
-<td style="text-align:center;"> 3          </td>
-</tr>
-<tr>
-<td> Lying Leg Curl  </td>
-<td style="text-align:center;"> 90    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Flat Dumbbell Chest Press                </td>
-<td style="text-align:center;"> 85     </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Inclined Dumbbell Chest Press           </td>
-<td style="text-align:center;"> 65    </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Cable Flyes           </td>
-<td style="text-align:center;"> 20     </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Preacher Curls                                   </td>
-<td style="text-align:center;"> 85   </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-<tr>
-<td> Hammer Curls                                   </td>
-<td style="text-align:center;"> 30   </td>
-<td style="text-align:center;"> 7          </td>
-<td style="text-align:center;"> 5          </td>
-<td style="text-align:center;"> 5          </td>
-</tr>
-</tbody>
-</table>
-
-
-<p>Every other day, I will choose one routine out of the 3 to perform. How I choose them is determined by the following pattern: <strong>A-B-A-C-A-B-A-C-A-B-A-C</strong> etc&hellip;</p>
-
-<p>Monday, I start with A.</p>
 ]]></content>
   </entry>
   

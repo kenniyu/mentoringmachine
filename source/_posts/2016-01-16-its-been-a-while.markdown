@@ -3,7 +3,7 @@ layout: post
 title: "It's Been a While"
 date: 2016-01-16 00:24:08 -0800
 comments: true
-categories: [health, investments, career]
+categories: [health, investments]
 ---
 
 It has been a while since my last post, but it has also been a great start to 2016. I'll give brief updates here on each of the pillars, and more in detail with each deserving their own post.

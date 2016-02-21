@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Investments | The Mentoring Machine]]></title>
   <link href="http://mentoringmachine.com/blog/categories/investments/atom.xml" rel="self"/>
   <link href="http://mentoringmachine.com/"/>
-  <updated>2016-02-08T21:47:35-08:00</updated>
+  <updated>2016-02-21T01:19:27-08:00</updated>
   <id>http://mentoringmachine.com/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Weekly Market Outlook]]></title>
+    <link href="http://mentoringmachine.com/blog/2016/02/20/weekly-market-outlook/"/>
+    <updated>2016-02-20T22:54:48-08:00</updated>
+    <id>http://mentoringmachine.com/blog/2016/02/20/weekly-market-outlook</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the market outlook for the week of Feb 22.</p>
+
+<p><strong>SPX</strong></p>
+
+<p><a href="/images/investments/2016-02-20/spx_weekly.png"><img src="/images/investments/2016-02-20/spx_weekly.png" alt="SPX" /></a></p>
+
+<p>Here&rsquo;s the weekly chart on the SPX. The long term support trendline hasn&rsquo;t been breached, yet. Taking a closer look on the daily:</p>
+
+<p><a href="/images/investments/2016-02-20/spx_daily.png"><img src="/images/investments/2016-02-20/spx_daily.png" alt="SPX" /></a></p>
+
+<p>We did not close Friday on a very bearish tone. Instead, we ended with a hammer. While the past week&rsquo;s gains have been mostly due to short covering, we can&rsquo;t ignore price action. We rallied because the market was simply too short before. However, this poor structure represented by the short-covering rally is vulnerable to liquidation breaks; therefore, we can <em>easily</em> see price rotate all the way to the bottom of the &ldquo;balance area&rdquo; (the area denoted by the left-most pink rectangle) once we begin to sell off again. (1)</p>
+
+<p>If we do sell off to the bottom of the balance area, then this time, we may actually break its bottom and head lower into the area denoted by the bottom-right pink rectangle. Why may we break it? We&rsquo;ve knocked on the door two times already, so it shouldn&rsquo;t take much more for the door to open with subsequent knocks. The expected range extension if we do break out of our balance area is the bottom of the pink area, which is just a bit below the 1700 level. (2)</p>
+
+<p>Still, we cannot rule out the possibility of rallying above the smaller blue trendline resistance hovering just above this balance area. Once that level breaks, it isn&rsquo;t hard for the market to continue rallying up to the top of the top right pink rectangle, which falls in line with the highest level of trendline resistance. This is what <em>should</em> happen, and if it does not reach that level, but instead falls back down into the balance area, carry that information forward as a sign of market weakness. (3)</p>
+
+<p>So how is any of this information actionable?</p>
+
+<p>(1) For trading the balance area, any break below Friday&rsquo;s low should lead us to revisit the bottom of this balance area. This would be the 1900 level. We can buy vertical put spreads for a cheap price. Or we can also sell a vertical call spread on SPX out in March for a higher probability trade, and if we&rsquo;re wrong, roll it out to April for duration to help us be right eventually.</p>
+
+<p>(2) For trading a break below the current balance area, since selling should accelerate, IV will increase quickly. A very far and wide out of the money vertical put debit spread should be able to harvest the gains. One can also think about financing this by selling a naked, out of the money call option.</p>
+
+<p>(3) For trading a break above the current balance area, since the short covering rally should continue, a far out of the money call spread works just as well. This should be relatively cheap as well and can be financed with either a further and wider credit call vertical, or a credit put vertical spread below the current balance area.</p>
+
+<p>Another possible trade idea is, if we expect price to break sharply in either direction, we can also sell a butterfly centered around the current price. Adjust the wings to risk tolerance. For a directional bias, a call or put backratio works just as well. Use SPY if SPX is too large.</p>
+
+<p>I&rsquo;ll provide more updates as the week progresses. Wish you all good trading!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Look at Jumbotrons]]></title>
@@ -152,23 +187,6 @@
 <p>One of the things that I really like about ST is that they do directional plays, and they are really good at them. I&rsquo;ve never seen someone to accurate with their trades, so one of the goals that I have currently is to follow some of their trades. I heard a good advice today that will help me pull the trigger, and that is, simply do the trade, but put on a small size. Worry about size later, but focus on staying small and following the entries and exits according to plan. So instead of an outright buying/selling of 1 /ES contract, maybe trade 250 shares of the SPY. Also, perhaps try paper-trading the XEL-CMS pairs trade. For some of their trade ideas, they have unlimited risk on jumbotrons, which isn&rsquo;t my style. I can reduce risk by making the trade a limited risk and perhaps paying a slight debit for the trade.</p>
 
 <p>I&rsquo;ll update the investments page to include these goals, and as the days go by next week, I&rsquo;ll track my progress on achieving these goals.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Staying Small]]></title>
-    <link href="http://mentoringmachine.com/blog/2016/01/16/staying-small/"/>
-    <updated>2016-01-16T12:49:16-08:00</updated>
-    <id>http://mentoringmachine.com/blog/2016/01/16/staying-small</id>
-    <content type="html"><![CDATA[<p>The past week has been a huge tidal wave for my equity curve.</p>
-
-<p>I got emotional after finding out that my OOM naked puts on /ES were getting closer to being ITM, sold an /ES to neutralize some deltas, only to find that the market would rip higher the next day. Then I neutralized more deltas by selling more puts (putting on more size), only to see the market drop huge the next day, forcing me to sell another /ES to neutralize more deltas, only to see the market close above my cost basis for /ES.</p>
-
-<p>Obviously, the problem wasn&rsquo;t in neutralizing deltas. It was putting on too much size at the beginning. Instead of starting with many naked puts on the /ES (many as in more than I was comfortable with), I should&rsquo;ve kept it small, and probably should&rsquo;ve bought a more OOM put to reduce risk and lower buying power requirement.</p>
-
-<p>It seems that I still have not learned. The goal of staying small has not yet been achieved. I will mark this as a top goal to achieve in my current investments goal page. I will keep this in check every day, before I place a trade.</p>
-
-<p>Good luck to me next week. I should be good to the downside, and any upside will really bring in some premium.</p>
 ]]></content>
   </entry>
   

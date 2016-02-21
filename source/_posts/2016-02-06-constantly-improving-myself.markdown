@@ -3,7 +3,7 @@ layout: post
 title: "Constantly Improving Myself"
 date: 2016-02-06 19:57:45 -0800
 comments: true
-categories: [work, health, investments]
+categories: [health, investments]
 ---
 
 I meant to write this post earlier this month, but with things getting so busy at work, I couldn't find the time to until recently.
